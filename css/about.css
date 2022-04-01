@@ -19,6 +19,12 @@ img {
   line-height: 35px;
   margin-bottom: 50px;
 }
+.main .khoito{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 130px;
+    border-bottom: 5px solid #0cc;
+}
 .main .khoi {
   background-color: #f3f4f5;
   text-align: center;
@@ -27,18 +33,17 @@ img {
   line-height: 35px;
   margin-left: 5px;
   margin-right: 5px;
+  
 }
-.main .khoi .title {
+.main .khoi .ndkhoi .title {
   font-size: 30px;
   font-weight: 400;
   padding-bottom: 30px;
   color: #0cc;
+  padding-top: 30px;
 }
 .main .khoi .ndkhoi{
     text-align: left;
     padding-left: 20px;
-    padding-right: 40px;
-}
-row{
-    display: flex;
+    padding-right: 30px;
 }
