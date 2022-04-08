@@ -46,4 +46,19 @@ img {
     text-align: left;
     padding-left: 20px;
     padding-right: 30px;
+} 
+.main .team{
+    padding-top: 50px;
+}
+.main .team .congdong{
+    display: flex;
+    justify-content: space-between;
+}
+.main .team .congdong .prf{
+    color: #999;
+    font-size: 19px;
+    padding-left: 20px;
+}
+.main .team .congdong .img{
+    max-height: 60%;
 }

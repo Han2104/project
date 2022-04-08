@@ -1,134 +1,174 @@
-.blog-video{
-    border-top: 5px solid #0cc;
+.blog-video {
+  border-top: 5px solid #0cc;
 }
-video{
-    max-width: 100%;
-    max-height: 100%;
-    margin-top: 50px;
+video {
+  max-width: 100%;
+  max-height: 100%;
+  margin-top: 50px;
 }
-img{
-    border-radius: 50%;
+img {
+  border-radius: 50%;
 }
-p{
-    color: #099;
+p {
+  color: #099;
 }
-.blog-video .Post{
-    margin-top: 5px;
+.blog-video .Post {
+  margin-top: 5px;
 }
-.blog-video .Post .title{
-    margin-top: 60px;
-    color: rgb(16, 180, 180);
+.blog-video .Post .title {
+  margin-top: 60px;
+  color: rgb(16, 180, 180);
 }
-.blog-video .Post .title h4{
-    font-weight: 400;
-    margin-bottom: 26px;
+.blog-video .Post .title h4 {
+  font-weight: 400;
+  margin-bottom: 26px;
 }
-.blog-video .Post .content{
-    font-size: 19px;
-    color: #099;
+.blog-video .Post .content {
+  font-size: 19px;
+  color: #099;
 }
-.blog-video .Post .content .p1{
-    margin-top: 25px;
-    margin-bottom: 25px;
-    line-height: 35px;
+.blog-video .Post .content .p1 {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  line-height: 35px;
 }
-.blog-video .Post .content .p2{
-    margin-top: 25px;
-    margin-bottom: 25px;
-    line-height: 35px;
+.blog-video .Post .content .p2 {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  line-height: 35px;
 }
-.blog-video .Post .content .type{
-    color: #0CC;
-    text-align: right;
+.blog-video .Post .content .type {
+  color: #0cc;
+  text-align: right;
 }
-.blog-video .Post .end{
-   margin-left: 55%;
+.blog-video .Post .end {
+  margin-left: 55%;
 }
-.blog-video .Post .comment .title{
-    margin-top: 15px;
-    color: #099;
-    margin-bottom: 15px;
+.blog-video .Post .comment .title {
+  margin-top: 15px;
+  color: #099;
+  margin-bottom: 15px;
 }
-.blog-video .Post .comment .Comments{
-    border-top: 5px solid aqua;
+.blog-video .Post .comment .Comments {
+  border-top: 5px solid aqua;
 }
-.blog-video .Post .comment .Comments .people{
-    display: flex;
-    flex-direction: row;
-    margin-bottom: 15px;
-    border-bottom: 1px solid aqua;
-    padding-top: 35px ;
+.blog-video .Post .comment .Comments .people {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 15px;
+  border-bottom: 1px solid aqua;
+  padding-top: 35px;
 }
-.blog-video .Post .comment .Comments .people .bl{
-    font-size: 25px;
-    color: #099;
+.blog-video .Post .comment .Comments .people .bl {
+  font-size: 25px;
+  color: #099;
 }
-.blog-video .Post .comment .Comments .people .bl .top{
-    font-size: 18px; 
-    color: #099;
-    line-height: 35px;
+.blog-video .Post .comment .Comments .people .bl .top {
+  font-size: 18px;
+  color: #099;
+  line-height: 35px;
 }
-.blog-video .Post .comment .Comments .people .bl .bot{
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 40px;
-    font-size: 20px;
-    font-weight: 400;
+.blog-video .Post .comment .Comments .people .bl .bot {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 40px;
+  font-size: 20px;
+  font-weight: 400;
 }
-.blog-video .Post .comment .Comments .people .bl .bot .botin:hover{
-    color: rgb(3, 143, 143);
+.blog-video .Post .comment .Comments .people .bl .bot .botin:hover {
+  color: rgb(3, 143, 143);
 }
-.blog-video .Post .comment .Comments .people .b2 .type{
-    color: #099;
-    text-align: right;
-    font-size: 20px;
-    font-weight: 400;
+.blog-video .Post .comment .Comments .people .b2 .type {
+  color: #099;
+  text-align: right;
+  font-size: 20px;
+  font-weight: 400;
 }
-.blog-video .Post .comment .Comments .people .b2 .top{
-    font-size: 18px; 
-    color: #099;
-    line-height: 35px;
+.blog-video .Post .comment .Comments .people .b2 .top {
+  font-size: 18px;
+  color: #099;
+  line-height: 35px;
 }
-.blog-video .Post .some{
-    margin-top: 60px;
+.blog-video .Post .some {
+  margin-top: 60px;
 }
-.blog-video .Post .some .categories{
-    border-top: 5px solid #0cc;
-    color: #099;
+.blog-video .Post .some .categories {
+  border-top: 5px solid #0cc;
+  color: #099;
 }
-.blog-video .Post .some .categories .top{
-    color: #099;
-    font-size: 25px;
-    padding-top: 10px;
+.blog-video .Post .some .categories .top {
+  color: #099;
+  font-size: 25px;
+  padding-top: 10px;
 }
-.blog-video .Post .some .categories .menu{
-    padding-left: 20%;
-    font-size: 19px;
-    padding-top: 10px;
-    padding-bottom: 50px;
+.blog-video .Post .some .categories .menu {
+  padding-left: 20%;
+  font-size: 19px;
+  padding-top: 10px;
+  padding-bottom: 50px;
 }
-.blog-video .Post .some .categories .menu:hover{
-    color: rgb(4, 119, 119);
+.blog-video .Post .some .categories .menu:hover {
+  color: rgb(4, 119, 119);
 }
-.blog-video .Post .some .relatedpost{
-    border-top: 5px solid #0cc;
-    color: #099;
+.blog-video .Post .some .relatedpost {
+  border-top: 5px solid #0cc;
+  color: #099;
 }
-.blog-video .Post .some .relatedpost .top{
-    color: #099;
-    font-size: 25px;
-    padding-top: 10px;
+.blog-video .Post .some .relatedpost .top {
+  color: #099;
+  font-size: 25px;
+  padding-top: 10px;
 }
-.blog-video .Post .some .relatedpost .move{
-    font-size: 19px;
-    padding-top: 10px;
-    padding-bottom: 50px;
+.blog-video .Post .some .relatedpost .move {
+  font-size: 19px;
+  padding-top: 10px;
+  padding-bottom: 50px;
 }
-.blog-video .Post .some .relatedpost .move:hover{
-    color: rgb(4, 119, 119);
+.blog-video .Post .some .relatedpost .move:hover {
+  color: rgb(4, 119, 119);
 }
-.blog-video .Post .some .relatedpost .move img{
-    max-width: 100%;
-    max-height: 100%;
-    border-radius: 0%;
+.blog-video .Post .some .relatedpost .move img {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 0%;
+}
+.main .suggest {
+  display: flex;
+  flex-direction: column;
+  max-width: 40%;
+  color: #099;
+  font-weight: 450;
+  font-size: 30px;
+}
+.main .suggest .box1 {
+  border: 0.25px solid #0cc;
+  height: 50px;
+  margin-top: 25px;
+}
+.main .suggest .box2 {
+  border: 0.25px solid #0cc;
+  height: 45px;
+  margin-top: 25px;
+}
+.main .suggest .box3 {
+  border: 0.25px solid #0cc;
+  height: 200px;
+  margin-top: 25px;
+}
+.main .suggest .button {
+  text-align: right;
+  margin-top: 25px;
+}
+.main .suggest .button button {
+  height: 50px;
+  border: none;
+  color: white;
+  background-color: #0cc;
+  border-radius: 8%;
+}
+.main .fotter .click {
+  color: rgb(5, 225, 225);
+}
+.main .fotter .click:hover {
+  color: #0cc;
 }

@@ -105,4 +105,60 @@ a:hover {
   color: white;
   border-color: #0cc;
 }
-
+.main .pagination{
+  display: flex;
+  justify-content: space-between;
+}
+.main .pagination .button{
+  text-align: center;
+  height: 50px;
+  width: 120px;
+  border: none;
+  border-radius: 8% ;
+  font-size: 19px;
+  color: rgb(157, 161, 165);
+}
+.main .pagination .active{
+  font-size: 19px;
+  color: white;
+  background-color: #0cc;
+  margin-left: 20px;
+}
+.main .pagination .page .button{
+  text-align: center;
+  border: none;
+  border-radius: 8% ;
+  font-size: 19px;
+  color: #0cc;
+  border: none;
+  width: 50px;
+}
+.main .pagination .page .p{
+  color: #0cc;
+  font-size: 19px;
+}
+.main .pagination .page .active{
+  height: 50px;
+  width: 50px;
+  font-size: 19px;
+  color: white;
+  background-color: #0cc;
+  margin-left: 20px;
+  border: none;
+  border-radius: 8%;
+}
+.main .fotter{
+  color: #999;
+  font-size: 19px;
+  margin-top: 100px;
+  border-top: 0.25px solid rgb(4, 245, 245);
+  display: flex;
+  justify-content: space-between;
+  padding-top: 15px;
+}
+.main .fotter .click{
+  color: rgb(5, 225, 225);
+}
+.main .fotter .click:hover{
+  color: #0cc;
+}
